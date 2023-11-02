@@ -1,4 +1,4 @@
-# 
+# Textual Entailment using Transformer networks
 
 Textual Entailment using Transformer networks on the ParsiNLU dataset.
 
