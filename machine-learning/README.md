@@ -3,7 +3,7 @@
 
 1. Implementing **McCulloch Pitts**, **Adaline** and **Madaline** neural networks [(Code)](https://github.com/ahmadianme/projects/tree/master/machine-learning/mcculloch_pitts-madaline-rosenblatt).
 2. Storing matrices into **Auto-Associative Networks** using the **Hebian Rule** [(Code)](https://github.com/ahmadianme/projects/tree/master/machine-learning/auto-associative-nets-hebian).
-3. Image reconstruction using a **Discrete Hopfield Network** [(Code)](https://github.com/ahmadianme/projects/tree/master/machine-learning/discrete-hopﬁeld-network).
+3. Image reconstruction using a **Discrete Hopfield Network** [(Code)](https://github.com/ahmadianme/projects/tree/master/machine-learning/discrete-hopfield-network).
 4. Image classification using **MLP** and **CNN**, implemented with PyTorch [(Code)](https://github.com/ahmadianme/projects/tree/master/machine-learning/image-classification-mlp-cnn).
 5. Transfer learning for image classification using the **VGG-16** network [(Code)](https://github.com/ahmadianme/projects/tree/master/machine-learning/vgg-16-transfer).
 6. Semantic segmentation of images using **UNET** [(Code)](https://github.com/ahmadianme/projects/tree/master/machine-learning/semantic-segmentation).

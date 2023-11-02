@@ -1,3 +1,3 @@
-# Discrete Hopﬁeld Network
+# Discrete Hopfield Network
 
-Image reconstruction using a Discrete Hopﬁeld Network.
+Image reconstruction using a Discrete Hopfield Network.
