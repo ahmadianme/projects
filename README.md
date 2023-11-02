@@ -36,7 +36,7 @@ There are so many other projects I have done during my work that it was impossib
 2. **Part of speech** (POS) tagging using NLTK, PyTorch and **Viterbi** algorithm [(Code)](https://github.com/ahmadianme/projects/tree/master/natural-language-processing/part-of-speech-tagging).
 3. **Named Entity Recognition** (NER) using the Viterbi algorithm [(Code)](https://github.com/ahmadianme/projects/tree/master/natural-language-processing/named-entity-recognition).
 4. **Textual Entailment** using Transformer networks on the ParsiNLU dataset [(Code)](https://github.com/ahmadianme/projects/tree/master/natural-language-processing/textual-entailment).
-5. **Multilingual classification** using **BERT** and some other BERT variations [(Code)](https://github.com/ahmadianme/projects/tree/master/natural-language-processing/mltilingual-classiﬁcation).
+5. **Multilingual classification** using **BERT** and some other BERT variations [(Code)](https://github.com/ahmadianme/projects/tree/master/natural-language-processing/multilingual-classification).
 6. **Cross-lingual zero-shot transfer learning** using XLM-RoBERTa network [(Code)](https://github.com/ahmadianme/projects/tree/master/natural-language-processing/cross-lingual-zero-shot-transfer).
 7. **Neural Machine Translation** (NMT) using **OpenNMT** and **FairSeq** [(Code)](https://github.com/ahmadianme/projects/tree/master/natural-language-processing/neural-machine-translation).
 8. **Question Answering** (QA) by transfer learning and fine-tuning BERT and ALBERT [(Code)](https://github.com/ahmadianme/projects/tree/master/natural-language-processing/question-answering).
