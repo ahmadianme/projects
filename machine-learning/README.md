@@ -17,4 +17,4 @@
 14. Dimension reduction using **Principle Component Analysis** (PCA) for classification [(Code)](https://github.com/ahmadianme/projects/tree/master/machine-learning/pca-knn).
 15. Feature selection by **Sequential Forward Selection/Backward Elimination** [(Code)](https://github.com/ahmadianme/projects/tree/master/machine-learning/feature-selection-sfs-sbe).
 16. Building generative **Gaussian Mixture Models** (GMM) [(Code)](https://github.com/ahmadianme/projects/tree/master/machine-learning/gaussian-mixture-model).
-17. **Speech emotion** classification and clustering on a collected dataset [(Code)](https://github.com/ahmadianme/projects/tree/master/machine-learning/speech-emotion-classiﬁcation-clustering).
+17. **Speech emotion** classification and clustering on a collected dataset [(Code)](https://github.com/ahmadianme/projects/tree/master/machine-learning/speech-emotion-classification-clustering).
