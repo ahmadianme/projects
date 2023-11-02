@@ -47,7 +47,7 @@ There are so many other projects I have done during my work that it was impossib
 
 
 
-## BioMedical Engineering [(All related projects)](https://github.com/ahmadianme/projects/tree/master/)
+## BioMedical Engineering [(All related projects)](https://github.com/ahmadianme/projects/tree/master/bio-medical)
 1. **EEG signals** recording in 128 channels, feature extraction (Fast Fourier Transform) and classification (5-fold trained and evaluated) [(Code)](https://github.com/ahmadianme/projects/tree/master/bio-medical/eeg-signals).
 2. **Non-alcoholic SteatoHepatitis** (NASH: a liver disease) diagnosis AI system:[(Code)](https://github.com/ahmadianme/projects/tree/master/bio-medical/nash-diagnosis)
     * Data collected from Shahid Beheshti Medical University and model trained (Keras).
