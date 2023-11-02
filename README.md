@@ -1,8 +1,19 @@
 # Projects
 
-This repository contains the implementations for a few of the many projects I have done during my graduate research and courses.
+This repository contains the implementations for my M.Sc. thesis, B.Sc. project and a few of the many projects I have done during my graduate research and courses.
 
 There are so many other projects I have done during my work that it was impossible to upload the code due to the copyrights.
+
+
+
+
+## M.Sc. thesis implementation
+Thesis Title: Image Captioning Using Cross-Modal Text and Image Transformer Networks [(Code)](https://github.com/ahmadianme/projects/tree/master/msc-thesis).
+
+
+
+## B.Sc. project implementation
+Project title: Designing and implementation of a Museum Information System [(Code)](https://github.com/ahmadianme/projects/tree/master/bsc-project).
 
 
 
