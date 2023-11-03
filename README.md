@@ -113,7 +113,7 @@ Project title: Designing and implementation of a Museum Information System [(Cod
 
 ## Network Analysis [(All related projects)](https://github.com/ahmadianme/projects/tree/master/social-media-analysis/)
 * Average node distance calculation in a **Bionconi-Albert** social network [(Code)](https://github.com/ahmadianme/projects/tree/master/social-media-analysis/average-distance-bionconi-albert).
-* Average degree, degree distribution, clustering coeficient and average distance of nodes in a **Girvan-Newman** network.
+* Average degree, degree distribution, clustering coefficient and average distance of nodes in a **Girvan-Newman** network.
 * **Twitter data crawling and analysis** of accounts including:[(Code)](https://github.com/ahmadianme/projects/tree/master/social-media-analysis/twitter)
    * Recorded the number of followers, retweets, impressions, etc. and built a graph of retweets in Gephi.
    * Calculated hub, authority, in/out degree and page rank for each account in the graph.
