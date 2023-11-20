@@ -1,7 +1,7 @@
 # Non-alcoholic SteatoHepatitis diagnosis AI system
 
 
-### [Web App Available Here](https://ai.ahmadian.me/nash/).
+### [Click here for the online demo](https://ai.ahmadian.me/nash/).
 
 Non-alcoholic SteatoHepatitis (NASH: a liver disease) diagnosis AI system.
 * Data collected from Shahid Beheshti Medical University, Iran.
@@ -11,4 +11,4 @@ Non-alcoholic SteatoHepatitis (NASH: a liver disease) diagnosis AI system.
 
 
 
-![Screenshot](https://github.com/ahmadianme/projects/tree/master/bioinformatics/screenshot.jpg?raw=true)
+![Screenshot](https://github.com/ahmadianme/projects/blob/master/bioinformatics/nash-diagnosis/screenshot.jpg?raw=true)
