@@ -10,7 +10,7 @@ Non-alcoholic SteatoHepatitis (NASH: a liver disease) diagnosis AI system.
 * Designed a rest API to bridge the AI backend with the web GUI (Python - Flask).
 
 
-<br/><br/>
+
 
 
 [![Screenshot](https://github.com/ahmadianme/projects/blob/master/bioinformatics/nash-diagnosis/screenshot.jpg?raw=true)](https://ai.ahmadian.me/nash/)
