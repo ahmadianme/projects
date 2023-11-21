@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'B Yekan';
+    src: url('../fonts/byekan.eot');
+    src: url('../fonts/byekan.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/byekan.woff') format('woff'),
+         url('../fonts/byekan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body , #sidebar_main .menu_section>ul>li>a , .md-btn , #header_main .uk-navbar .uk-navbar-nav>li>a,
+input:not([type]).md-input, input[type=text].md-input, input[type=password].md-input, input[type=datetime].md-input, input[type=datetime-local].md-input, input[type=date].md-input, input[type=month].md-input, input[type=time].md-input, input[type=week].md-input, input[type=number].md-input, input[type=email].md-input, input[type=url].md-input, input[type=search].md-input, input[type=tel].md-input, input[type=color].md-input, select.md-input, textarea.md-input,
+.heading_a, h1, h2, h3, h4, h5, h6{
+	font-family: "B Yekan" , Tahoma, Arial !important;
+}
+
+.login-page {
+	background: url(../img/background/1.jpg) !important;
+}
+
+.md-card {
+	padding: 10px 15px;
+}
+
+#sidebar_main .sidebar_main_header{
+    background-image: url(../img/sidebar_head.jpg);
+    background-position: center center;
+    background-size: 100% auto;
+}
+
+.login_page_wrapper .md-card {
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+}
